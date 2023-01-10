@@ -49,9 +49,15 @@ width="100%">
       
 ### <strong><i>Como clonar o projeto:</i></strong>
 
-<p> git clone  </p>
+<p> git clone https://github.com/AlanFaraj83/Project-Finder-Job.git</p>
 
-</br>
+    
+### <strong><i>Como executar o projeto:</i></strong>
+
+<p> Depois de clonar o projeto no github ir ao terminal Visual studio code e executar o codigo npm run dev e depois ir ao navegador da internet e colocar localhost3000.</p>
+
+
+
 
 
 
