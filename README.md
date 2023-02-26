@@ -14,7 +14,7 @@ width="100%">
 
 ## Descrição do Projeto
 
-<p> Projeto Finder Job onde fiz um site de procura de emprego na area de Ti com o auxilio do curso de javascript completo de Matheus Battisti com o objetivo de aprendizado tanto no front-end quanto no back-end onde fiz as modificações na parte do front-end e no back-end e na parte de banco de dados que foi feito formulário de título da vaga, descrição, empresa contratante,e-mail e salário oferecido.
+<p> Projeto Finder Job onde fiz um site de procura de emprego na area de Ti com o objetivo de aprendizado tanto no front-end quanto no back-end onde fiz as modificações na parte do front-end e no back-end e na parte de banco de dados que foi feito formulário de título da vaga, descrição, empresa contratante,e-mail e salário oferecido.
 </p>
 
 ## Conteúdo do projeto
